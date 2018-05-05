@@ -1,0 +1,58 @@
+{
+  "locations": [
+    {
+     "imageSoure": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpKeKxTITERVuODdgy7jHoR7i3kJ02acPmXsIm3QKa-4ppiZFccA",
+     "localName": "Pier 115 Bar & Grill",
+     "localAddress": "115 River Rd, Edgewater, NJ 07020",
+     "time": "Afternoon"
+    },
+    {
+      "imageSoure":"https://www.residentadvisor.net/images/clubs/output-nyc.jpg",
+      "localName": "Output",
+      "localAddress": "74 Wythe Ave, Brooklyn, NY 11249",
+      "time": "After Dark"
+     },
+     {
+      "imageSoure":"https://thirstymag.com/wp-content/uploads/2015/10/barstool-review-la-esquina-brasserie-nolita.jpg",
+      "localName": "La Esquina Brasserie",
+      "localAddress": "114 Kenmare St New York, NY 10012",
+      "time": "After Dark"
+     },
+     {
+      "imageSoure": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkHStQ81oOAth2IDH9nmqAsoh0yfWlnrWyyT2JfHUnQ-LQQLnc",
+      "localName": "Golden Bridge Yoga NYC",
+      "localAddress": "3214, 253 Centre St, New York, NY 10013",
+      "time": "Morning"
+     },
+     {
+      "imageSoure":"http://style.gq.com.au//media/articles/4/0/7/0/40743-1_l.jpg?102706",
+      "localName": "Bronx Zoo",
+      "localAddress": "2300 Southern Blvd, Bronx, NY 10460",
+      "time": "Afternoon"
+     },
+     {
+      "imageSoure":"https://bbook.com/wp-content/uploads/2017/09/Madonna-MDNA.png",
+      "localName": "Premier Spa 57 ",
+      "localAddress": "115 E 57th Street, 8th Floor, New York, NY 10022",
+      "time": "Evening"
+     },
+     {
+      "imageSoure":"https://thenypost.files.wordpress.com/2015/05/vanityfair.jpg",
+      "localName": "Elite Model Management ",
+      "localAddress": "245 fifth avenue, 24th floor, New York, NY 10016",
+      "time": "Morning"
+     },
+     {
+      "imageSoure":"https://img.buzzfeed.com/buzzfeed-static/static/2015-08/17/20/campaign_images/webdr05/people-are-accusing-instagram-star-thefatjewish-o-2-6359-1439858788-11_dblbig.jpg",
+      "localName": "Wölffer Estate Vineyard",
+      "localAddress": "139 Sagg Rd, Sagaponack, NY 11962",
+      "time": "Afternoon"
+     },
+     {
+      "imageSoure": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ8K3Pp5ZndIwy7Mtrl94envmfA0ifekr8-Gh6tE2InXldztYT",
+      "localName": "Central Park",
+      "localAddress": "Park in New York City, New York",
+      "time": "Morning"
+     }
+  ]
+}
