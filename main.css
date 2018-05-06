@@ -1,3 +1,21 @@
-body {
+.snuggle-bunny{
+height: 500px;
+}
+
+.container{
   text-align: center;
+}
+
+.img-ex {
+width: 300px;
+height: 200px;
+box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
+}
+
+.card{
+border-radius: 10px;
+margin:10px;
+height: 450px;
+width: 350px;
+box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
 }
