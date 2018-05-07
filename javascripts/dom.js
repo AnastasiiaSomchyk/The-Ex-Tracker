@@ -10,10 +10,10 @@ const printExToDom = (dude) => {
     <hr class="my-4">
     <p>It uses utility classes for typography and spacing to    space content out within the larger container.</p>
       <p class="lead">
-      <button type="button" class="btn btn-outline-dark">Morning</button>
-      <button type="button" class="btn btn-outline-dark">Afternoon</button>
-      <button type="button" class="btn btn-outline-dark">Evening</button>
-      <button type="button" class="btn btn-outline-dark">After Dark</button>
+      <button id="morning-btn" type="button" class="btn btn-outline-dark">Morning</button>
+      <button id="afternoon-btn" type="button" class="btn btn-outline-dark">Afternoon</button>
+      <button id="evening-btb" type="button" class="btn btn-outline-dark">Evening</button>
+      <button id="dark-btn" type="button" class="btn btn-outline-dark">After Dark</button>
   </p>
   </div>
   </div>`;
@@ -24,11 +24,12 @@ const printExToDom = (dude) => {
 const writeLocations = (locations) => {
   let domStrang = '';
   locations.forEach((location) => {
-    domStrang += `<div class="card col-md-4">
+    domStrang += `<div class="card col-md-4 localPlace">
      <h2>${location.localName}</h2>
       <img class="img-ex" src="${location.imageSoure}">
         <div class="caption">;
        <h3 id="thumbnail-label"> ${location.localAddress}</h3>
+       <h4 class="time">Usually there ${location.time}</h4>
        </div>
     </div>
     `;
