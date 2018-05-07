@@ -15,6 +15,11 @@ const printExToDom = (dude) => {
       <button id="evening-btb" type="button" class="btn btn-outline-dark">Evening</button>
       <button id="dark-btn" type="button" class="btn btn-outline-dark">After Dark</button>
   </p>
+  <form class="navbar-form">
+  <div class="form-group">
+    <input id="search" type="text" class="form-control" placeholder="Search">
+  </div>
+</form>
   </div>
   </div>`;
   });
@@ -25,11 +30,11 @@ const writeLocations = (locations) => {
   let domStrang = '';
   locations.forEach((location) => {
     domStrang += `<div class="card col-md-4 localPlace">
-     <h2>${location.localName}</h2>
+     <h2 class="localName">${location.localName}</h2>
       <img class="img-ex" src="${location.imageSoure}">
         <div class="caption">;
        <h3 id="thumbnail-label"> ${location.localAddress}</h3>
-       <h4 class="time">Usually there ${location.time}</h4>
+       <h4 class="time">Usually here ${location.time}</h4>
        </div>
     </div>
     `;
