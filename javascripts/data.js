@@ -10,9 +10,9 @@ const whenExLoads = function (data) {
 };
 
 const whenLocationLoad =  function (data) {
-  console.log('data', data);
-  $('#localPlace').append(dom.writeLocations(data.locations));
-
+  // console.log('data', data);
+  $('#localPlaces').append(dom.writeLocations(data.locations));
+  allEvents.searchEvent();
 };
 
 const whenDontLoad = function (error) {

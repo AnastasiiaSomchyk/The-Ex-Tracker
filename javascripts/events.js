@@ -25,6 +25,27 @@ const buttonsClickEvent = () => {
   $('#dark-btn').on('click', darkFilter);
 };
 
+const searchEvent = () => {
+  $('#search').keyup(filterSearchBar);
+};
+
+const filterSearchBar = (e) => {
+  const inputVal = $('#search').val();
+  const titles = $('.card').find('h2');
+  $.each(titles, (index,title) => {
+    const titleText = $(title).text();
+    if (titleText.toLowerCase().indexOf(inputVal) === -1) {
+      $(title).parent().fadeOut(300);
+    }
+    else {
+      $(title).parent().fadeIn(300);
+    }
+
+  });
+
+};
+
 module.exports = {
   buttonsClickEvent,
+  searchEvent,
 };
