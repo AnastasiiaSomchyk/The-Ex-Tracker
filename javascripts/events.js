@@ -18,11 +18,16 @@ const darkFilter = () => {
   $('.time').filter(":contains('After Dark')").closest('.localPlace').show();
 };
 
+const resetBtn = () => {
+  $('.card').show();
+};
+
 const buttonsClickEvent = () => {
   $('#morning-btn').on('click', morningFilter);
   $('#afternoon-btn').on('click', afternoonFilter);
   $('#evening-btb').on('click', eveningFilter);
   $('#dark-btn').on('click', darkFilter);
+  $('#reset-btn').on('click', resetBtn);
 };
 
 const searchEvent = () => {

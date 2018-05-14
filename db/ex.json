@@ -2,6 +2,7 @@
   "dude": [
     {
       "imageSoure":"./img/thafatjew.jpg",
+      "logoSource":"./img/josh.png",
       "name": "Josh Ostrovsky",
       "age": 36,
       "flaws": "He still lives with his mom"
