@@ -1,19 +1,57 @@
+body {
+  background-color: #f5c3d4;
+  color: #832747;
+}
+
+.josh-img{
+  width: 60px;
+  margin: 3px;
+}
+.logo-heart{
+  width: 400px;
+  margin-left: 19%;
+}
+
+.pull-right{
+  margin-right:3%;
+}
+          /* nav-bar ends*/
+
+.jumbotron{
+background-color:#cb8aa1;
+padding-right: 40%;
+}
+
 .snuggle-bunny{
-height: 400px;
+height: 380px;
 box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
 }
 
 .container{
+  background-color: #e4c2ce;
   text-align: center;
+  font-family: 'Roboto', sans-serif;
+  padding: 30px;
+  border-radius: 8px;
 }
 
 .img-ex {
 width: 300px;
 height: 200px;
-box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
+box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.041), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
+}
+
+button{
+  width: 90px;
+  padding: 5px;
+}
+
+#search{
+width: 450px;
 }
 
 .card{
+background-color: rgba(229, 226, 226, 0.76);
 border-radius: 10px;
 margin:10px;
 height: 450px;

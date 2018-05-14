@@ -38,7 +38,7 @@
      },
      {
       "imageSoure":"https://thenypost.files.wordpress.com/2015/05/vanityfair.jpg",
-      "localName": "Elite Model Management ",
+      "localName": "Modeling Agency",
       "localAddress": "245 fifth avenue, 24th floor, New York, NY 10016",
       "time": "Morning"
      },
@@ -53,6 +53,24 @@
       "localName": "Central Park",
       "localAddress": "Park in New York City, New York",
       "time": "Morning"
-     }
+     },
+     {
+      "imageSoure": "https://blog.freshdirect.com/wp-content/uploads/2015/06/Pool-Chairs.png",
+      "localName": "Rise & Shine Pools",
+      "localAddress": "Southampton, NY 11968",
+      "time": "Afternoon"
+     },
+    {
+     "imageSoure": "https://s3.insidehook.com/1-treats_1469562107.jpg",
+     "localName": "Up&Down",
+     "localAddress": "244 W 14th St, New York, NY 10011",
+     "time": "After Dark"
+  },
+  {
+    "imageSoure":"https://cdn.vox-cdn.com/thumbor/OoowGaIq0CFefjHVWz-bKMZFmtQ=/0x67:1999x1566/1200x800/filters:focal(0x67:1999x1566)/cdn.vox-cdn.com/uploads/chorus_image/image/47030518/GettyImages-475544850.0.jpg",
+    "localName": "Swarovski Center",
+    "localAddress": "30 Rockefeller Plaza, New York, NY 10112",
+    "time": "Evening"
+  }
   ]
 }

@@ -3,21 +3,22 @@ const printExToDom = (dude) => {
   dude.forEach((ex) => {
     domStrong += `<div class="jumbotron">
     <img class="snuggle-bunny" src="${ex.imageSoure}">
+    <img class="logo-heart" src="${ex.logoSource}">
     <div class="pull-right">
      <h1 class="display-4">${ex.name}</h1>
      <h2>Age ${ex.age}</h2>
-     <p class="lead">${ex.flaws}</p>
+     <p class="lead"><b>${ex.flaws}</b></p>
     <hr class="my-4">
-    <p>It uses utility classes for typography and spacing to    space content out within the larger container.</p>
       <p class="lead">
-      <button id="morning-btn" type="button" class="btn btn-outline-dark">Morning</button>
-      <button id="afternoon-btn" type="button" class="btn btn-outline-dark">Afternoon</button>
-      <button id="evening-btb" type="button" class="btn btn-outline-dark">Evening</button>
-      <button id="dark-btn" type="button" class="btn btn-outline-dark">After Dark</button>
+      <button id="morning-btn" type="button" class="btn btn-outline-dark"><b>Morning</b></button>
+      <button id="afternoon-btn" type="button" class="btn btn-outline-dark"><b>Afternoon</b></button>
+      <button id="evening-btb" type="button" class="btn btn-outline-dark"><b>Evening</b></button>
+      <button id="dark-btn" type="button" class="btn btn-outline-dark"><b>After Dark</b></button>
+      <button id="reset-btn" type="button" class="btn btn-outline-dark"><b>Reset</b></button>
   </p>
   <form class="navbar-form">
   <div class="form-group">
-    <input id="search" type="text" class="form-control" placeholder="Search">
+    <input id="search" type="text" class="form-control" placeholder="Search by location">
   </div>
 </form>
   </div>
