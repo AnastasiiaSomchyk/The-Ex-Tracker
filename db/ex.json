@@ -2,10 +2,25 @@
   "dude": [
     {
       "imageSoure":"./img/thafatjew.jpg",
-      "logoSource":"./img/josh.png",
-      "name": "Josh Ostrovsky",
+      "name": "Josh",
       "age": 36,
-      "flaws": "He still lives with his mom"
+      "flaws": "Every morning he drinks whisky with corn flakes",
+      "locations": [1, 3, 9, 11, 6, 7]
+    },
+    {
+      "imageSoure":"./img/nerd.jpg",
+      "name": "Sebastian",
+      "age": 33,
+      "flaws": "He still lives with his mom",
+      "locations": [0, 2, 4, 6, 8, 10]
+    },
+    {
+      "imageSoure":"./img/tooth.jpg",
+      "name": "Henry",
+      "age": 45,
+      "flaws": "He believes in tooth fairy",
+      "locations": [0, 4, 9, 5, 10, 7]
     }
+
   ]
 }

@@ -1,7 +1,15 @@
-const loadEx = (successFunction, errorFunction) => {
-  $.get('../db/ex.json')
-    .done(successFunction)
-    .fail(errorFunction);
-};
+// const loadExJSON = () => {
+//   return new Promise((resolve, reject) => {
+//     $.get('../db/ex.json')
+//       .done((data) => {
+//         resolve(data.dude);
+//       })
+//       .fail((error) => {
+//         reject('Got an error', error);
+//       });
+//   });
+// };
 
-module.exports = loadEx;
+// module.exports = {
+//   loadExJSON,
+// };

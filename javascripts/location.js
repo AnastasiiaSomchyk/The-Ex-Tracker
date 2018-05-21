@@ -1,7 +1,13 @@
-const loadLocation = (successFunction, errorFunction) => {
-  $.get('../db/locations.json')
-    .done(successFunction)
-    .fail(errorFunction);
-};
+// const loadLocationJSON = () => {
+//   return new Promise((resolve, reject) => {
+//     $.get('../db/location.json')
+//       .done((data) => {
+//         resolve(data.locations);
+//       })
+//       .fail((error) => {
+//         reject('Got an error', error);
+//       });
+//   });
+// };
 
-module.exports = loadLocation;
+// module.exports = loadLocationJSON;
