@@ -1,72 +1,84 @@
 {
   "locations": [
     {
+     "locationId": 0,
      "imageSoure": "https://typeset-beta.imgix.net/elite-daily/2016/07/16031758/the-fat-jew-partying.jpg",
      "localName": "Pier 115 Bar & Grill",
      "localAddress": "115 River Rd, Edgewater, NJ 07020",
      "time": "After Dark"
     },
     {
+      "locationId": 1,
       "imageSoure":"https://bbook.com/wp-content/uploads/2015/07/white_girl_rose_fat_jewish-695x470.jpg",
       "localName": "Six Flags",
       "localAddress": "1 Six Flags Blvd, Jackson, NJ 08527",
       "time": "Afternoon"
      },
      {
+      "locationId": 2,
       "imageSoure":"http://assets.nydailynews.com/polopoly_fs/1.2333188.1440171819!/img/httpImage/image.jpg_gen/derivatives/index_727/fat22f-2-web.jpg",
       "localName": "La Esquina Brasserie",
       "localAddress": "114 Kenmare St New York, NY 10012",
       "time": "After Dark"
      },
      {
+      "locationId": 3,
       "imageSoure": "https://schlemielintheory.files.wordpress.com/2016/12/chfqtcjwmaaiuqj.jpg?w=640",
       "localName": "White House",
       "localAddress": "1600 Pennsylvania Ave NW, Washington, DC 20500",
       "time": "Morning"
      },
      {
+      "locationId": 4,
       "imageSoure":"http://style.gq.com.au//media/articles/4/0/7/0/40743-1_l.jpg?102706",
       "localName": "Bronx Zoo",
       "localAddress": "2300 Southern Blvd, Bronx, NY 10460",
       "time": "Afternoon"
      },
      {
+      "locationId": 5,
       "imageSoure":"https://bbook.com/wp-content/uploads/2017/09/Madonna-MDNA.png",
       "localName": "Premier Spa 57 ",
       "localAddress": "115 E 57th Street, 8th Floor, New York, NY 10022",
       "time": "Evening"
      },
      {
+      "locationId": 6,
       "imageSoure":"https://thenypost.files.wordpress.com/2015/05/vanityfair.jpg",
       "localName": "Modeling Agency",
       "localAddress": "245 fifth avenue, 24th floor, New York, NY 10016",
       "time": "Morning"
      },
      {
+      "locationId": 7,
       "imageSoure":"https://img.buzzfeed.com/buzzfeed-static/static/2015-08/17/20/campaign_images/webdr05/people-are-accusing-instagram-star-thefatjewish-o-2-6359-1439858788-11_dblbig.jpg",
       "localName": "Wölffer Estate Vineyard",
       "localAddress": "139 Sagg Rd, Sagaponack, NY 11962",
       "time": "Evening"
      },
      {
+      "locationId": 8,
       "imageSoure": "https://static01.nyt.com/images/2014/09/18/fashion/18zFATJEW/18zFATJEW-master1050.jpg",
       "localName": "Central Park",
       "localAddress": "Park in New York City, New York",
       "time": "Morning"
      },
      {
+      "locationId": 9,
       "imageSoure": "https://blog.freshdirect.com/wp-content/uploads/2015/06/Pool-Chairs.png",
       "localName": "Rise & Shine Pools",
       "localAddress": "Southampton, NY 11968",
       "time": "Afternoon"
      },
     {
+     "locationId": 10,
      "imageSoure": "https://s3.insidehook.com/1-treats_1469562107.jpg",
      "localName": "Up&Down",
      "localAddress": "244 W 14th St, New York, NY 10011",
      "time": "After Dark"
   },
   {
+    "locationId": 11,
     "imageSoure":"https://cdn.vox-cdn.com/thumbor/OoowGaIq0CFefjHVWz-bKMZFmtQ=/0x67:1999x1566/1200x800/filters:focal(0x67:1999x1566)/cdn.vox-cdn.com/uploads/chorus_image/image/47030518/GettyImages-475544850.0.jpg",
     "localName": "Swarovski Center",
     "localAddress": "30 Rockefeller Plaza, New York, NY 10112",

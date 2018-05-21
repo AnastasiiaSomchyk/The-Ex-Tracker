@@ -3,27 +3,20 @@ body {
   color: #832747;
 }
 
-.josh-img{
-  width: 60px;
-  margin: 3px;
-}
-.logo-heart{
-  width: 400px;
-  margin-left: 19%;
+.filter-wrap{
+  text-align: center;
+  margin: 20px;
 }
 
-.pull-right{
-  margin-right:3%;
-}
-          /* nav-bar ends*/
-
-.jumbotron{
+.panel{
+padding: 10px;
 background-color:#cb8aa1;
-padding-right: 40%;
+width: 300px;
+height: 450px;
 }
 
 .snuggle-bunny{
-height: 380px;
+height: 250px;
 box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
 }
 
